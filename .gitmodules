@@ -1,0 +1,3 @@
+[submodule ".Trash/Login-Register-Alamofire-main/Alamofire"]
+	path = .Trash/Login-Register-Alamofire-main/Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
